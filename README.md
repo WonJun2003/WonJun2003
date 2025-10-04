@@ -5,7 +5,7 @@
 
 ![WonJun2003 's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003&show_icons=true&theme=tokyonight)
 
-## Career
+## ▶Career
 ㆍ영남대학교 학부생
 
 ## Languages & Tools
