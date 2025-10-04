@@ -1,6 +1,6 @@
 # Introduction
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003)](https://github.com/WonJun2003/github-readme-stats)
 
 ## Career
 영남대학교 학부생
