@@ -1,6 +1,5 @@
 # Introduction
 
-[![WonJun2003 's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003)](https://github.com/WonJun2003/github-readme-stats)
 ![WonJun2003 's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003&show_icons=true)
 
 ## Career
