@@ -1,6 +1,7 @@
 # Introduction
 
 ![WonJun2003 's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonJun2003)
 
 ## Career
 영남대학교 학부생
