@@ -1,4 +1,4 @@
-# Hello, Introduce My Stats and Career >.<
+# Introduction
 
 ## Profile
 ㆍName : 최원준(Won-Jun Choi)
