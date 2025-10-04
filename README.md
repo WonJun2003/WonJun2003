@@ -1,6 +1,6 @@
 # Introduction
 
-[![wonjun yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003)](https://github.com/WonJun2003/github-readme-stats)
+[![wonjun 's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003)](https://github.com/WonJun2003/github-readme-stats)
 https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true&show_icons=true
 
 ## Career
