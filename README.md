@@ -1,7 +1,8 @@
 # Introduction
 
 ## Profile
-ㆍ최원준(Won-Jun Choi)/n
+ㆍ최원준(Won-Jun Choi)
+
 ㆍ2003.09.25
 
 ![WonJun2003 's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonJun2003&show_icons=true&theme=tokyonight)
